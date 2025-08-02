@@ -70,7 +70,7 @@ CandyCrush.exe
 
 ## 👥 Contributors
 
-- **Javeriah Faheem FAST NUCES **
+- **Javeriah Faheem FAST NUCES**
 - **Ayesha Areej FAST NUCES**
 - **Sabreena Azhar FAST NUCES**
 
